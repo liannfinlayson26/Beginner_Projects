@@ -1,7 +1,7 @@
 # Essential Learning Portfolio
 
 I develop multiple projects that helped me understand and master skills that are essential in Python.
-This include:
+* This include:
 
 **13. The Higher Lower Game:**
 **12. The Number Guessing Game:**
