@@ -1,23 +1,25 @@
 # Essential Learning Portfolio
 
-I develop multiple projects that helped me understand and master skills that are essential in Python.
-* This include:
+I develop multiple projects that helped me understand and master skills that are essential in Python. 
+<br>This include:
 
-**13. The Higher Lower Game:**
-**12. The Number Guessing Game:**
-**11. Blackjack:**
-**10. Calculator:**
+## **13. The Higher Lower Game:** 
+## <br>**12. The Number Guessing Game:**
+## <br>**11. Blackjack:**
+## <br>**10. Calculator:**
 
-**9. Blind Auction Program:**
-* Key learnings: How to apply the knowledge of dictionaries to create a program that allowed us to input several information
-* Difficulties: The used of a while loop to create a 
+## <br> **9. Blind Auction Program:**
+<br> Description:
++ Key learnings: How to apply the knowledge of dictionaries to create a program that allowed us to input several information
++  Difficulties: The used of a while loop to create a 
 
-**8. Caesar Cipher:**
-**7. Hangman:**
-**6. Hurdles Challenge:**
-**5. Password Generator:**
-**4. Rock Paper Scissor:**
-* Key learnings: apply multiple for loops
-**3. Treasure Island:**
-**2. Tip Calculator:**
-**1. Band Name Generator:**
+## <br> **8. Caesar Cipher:**
+## <br> **7. Hangman:**
+## <br> **6. Hurdles Challenge:**
+## <br> **5. Password Generator:**
+## <br> **4. Rock Paper Scissors:**
+<br> Description: a game that allows you to play the game rock, paper scissors with a computer. 
++ Key learnings: apply multiple for loops
+## <br>**3. Treasure Island:**
+## <br>**2. Tip Calculator:**
+## <br>**1. Band Name Generator:**
