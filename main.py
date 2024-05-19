@@ -32,6 +32,6 @@ print(f'The highster bidder is {max_bidder} with a bid of {max_value}')
 #         name_size()
       
     
-#what a lover
+
   
   
