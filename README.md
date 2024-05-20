@@ -22,4 +22,6 @@ I develop multiple projects that helped me understand and master skills that are
 + Key learnings: apply multiple for loops
 ## <br>**3. Treasure Island:**
 ## <br>**2. Tip Calculator:**
+<br> Description: a program that allows to divide or split the bill, with a specific percentage and tip included.
++ Key learnings: apply data types knowledge (integers, floats, strings) and F strings
 ## <br>**1. Band Name Generator:**
