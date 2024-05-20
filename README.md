@@ -24,6 +24,8 @@ I develop multiple projects that helped me understand and master skills that are
 ## <br>**2. Tip Calculator:**
 <br> Description: a program that allows to divide or split the bill, with a specific percentage and tip included.
 + Key learnings: apply data types knowledge (integers, floats, strings) and F strings
++ Code: https://github.com/liannfinlayson26/Essential-Learning-Portfolio/blob/2_Tip_Calculator/main.py
+
 ## <br>**1. Band Name Generator:**
 <br> Description: a program that allows to create a Band name with the name of your country and your pet's name.
 + Key learnings: how to use the input function.
