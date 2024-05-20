@@ -25,3 +25,5 @@ I develop multiple projects that helped me understand and master skills that are
 <br> Description: a program that allows to divide or split the bill, with a specific percentage and tip included.
 + Key learnings: apply data types knowledge (integers, floats, strings) and F strings
 ## <br>**1. Band Name Generator:**
+<br> Description: a program that allows to create a Band name with the name of your country and your pet's name.
++ Key learnings: how to use the input function.
