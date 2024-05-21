@@ -25,6 +25,10 @@ I develop multiple projects that helped me understand and master skills that are
 + Code: https://github.com/liannfinlayson26/Essential-Learning-Portfolio/blob/7_Hangman/main.py
 
 ## <br> **6. Hurdles Challenge:**
+<br> Description: A maze in Reeborg's World where the robot must reach the exit.
++ Key learnings: applied what I learned about if, elif and while statements. Also using the not statement.
++ Difficulties: how to debug the code when the robot is facing in certain directions. Like facing forward for example.
++ Code: https://github.com/liannfinlayson26/Essential-Learning-Portfolio/blob/6_Hurdles_Challenge/Maze%20(1).py
 ## <br> **5. Password Generator:**
 <br> Description: a program that uses the random module to create a password based on a criteria: different numbers, symbols and letters.
 + Key learnings: random modules and list.
