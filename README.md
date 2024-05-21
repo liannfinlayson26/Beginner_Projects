@@ -7,7 +7,9 @@ I develop multiple projects that helped me understand and master skills that are
 ## <br>**12. The Number Guessing Game:**
 ## <br>**11. Blackjack:**
 ## <br>**10. Calculator:**
-
+<br> Description: a program that allows to do multiple mathematical operations (addition, subtraction, multiplication and division).
++ Key learnings: applied my knowledge in dictionaries and functions
++ Code:
 ## <br> **9. Blind Auction Program:**
 <br> Description: A multiplayer game that allows you to compete for the highest bid. The one with the highest bid wins.
 + Key learnings: How to apply the knowledge of dictionaries to create a program that allowed us to input several information
