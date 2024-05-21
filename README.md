@@ -14,8 +14,8 @@ I develop multiple projects that helped me understand and master skills that are
 +  Difficulties: The use of a while loop to create a dictionary that iterate through a set of {keys: values}
 +  Code: https://github.com/liannfinlayson26/Essential-Learning-Portfolio/blob/9_Blind_Auction_Program_Solved/main.py 
 ## <br> **8. Caesar Cipher:**
-<br> Description:
-+  Difficulties:
+<br> Description: A program that allows you to encrypt and decrypt messages by shifting each letter in the plaintext by a fixed number of position down or up the alphabet. 
++  Difficulties: 
 +  Code:
 ## <br> **7. Hangman:**
 <br> Description: the program chooses a random word and we have to guessed which word it is. If we fail to guess the letters we lose!
