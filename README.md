@@ -9,7 +9,8 @@ I develop multiple projects that helped me understand and master skills that are
 ## <br>**10. Calculator:**
 <br> Description: a program that allows to do multiple mathematical operations (addition, subtraction, multiplication and division).
 + Key learnings: applied my knowledge in dictionaries and functions
-+ Code:
++ Difficulties: learning and applying the concept of recursion to continue doing operations in the calculator with a previous result of a calculation.
++ Code:https://github.com/liannfinlayson26/Essential-Learning-Portfolio/blob/10_Calculator/main.py
 ## <br> **9. Blind Auction Program:**
 <br> Description: A multiplayer game that allows you to compete for the highest bid. The one with the highest bid wins.
 + Key learnings: How to apply the knowledge of dictionaries to create a program that allowed us to input several information
@@ -18,7 +19,7 @@ I develop multiple projects that helped me understand and master skills that are
 ## <br> **8. Caesar Cipher:**
 <br> Description: A program that allows you to encrypt and decrypt messages by shifting each letter in the plaintext by a fixed number of position down or up the alphabet. 
 +  Difficulties: 
-+  Code:
++  Code: 
 ## <br> **7. Hangman:**
 <br> Description: the program chooses a random word and we have to guessed which word it is. If we fail to guess the letters we lose!
 + Key learnings: lists, for and while loops
