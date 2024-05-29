@@ -1,25 +1,25 @@
 # Essential Learning Portfolio
 
 I develop multiple projects that helped me understand and master skills that are essential in Python. This projects involved concepts like:
-+Flow control
-+
++ Flow control
++ 
 <br>This projects are:
 
 ## **13. The Higher Lower Game:** 
 <br> Description:
-+Key learnings:
-+Difficulties:
-+Code:
++ Key learnings:
++ Difficulties:
++ Code:
 ## <br>**12. The Number Guessing Game:**
 <br> Description:
-+Key learnings:
-+Difficulties:
-+Code:
++ Key learnings:
++ Difficulties:
++ Code:
 ## <br>**11. Blackjack:**
 <br> Description:
-+Key learnings:
-+Difficulties:
-+Code:
++ Key learnings:
++ Difficulties:
++ Code:
 ## <br>**10. Calculator:**
 <br> Description: a program that allows to do multiple mathematical operations (addition, subtraction, multiplication and division).
 + Key learnings: applied my knowledge in dictionaries and functions
