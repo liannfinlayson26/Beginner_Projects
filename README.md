@@ -16,10 +16,10 @@ I develop multiple projects that helped me understand and master skills that are
 + Difficulties:
 + Code:
 ## <br>**11. Blackjack:**
-<br> Description:
-+ Key learnings:
-+ Difficulties:
-+ Code:
+<br> Description: a game that allows to play blackjack 21 with a computer. 
++ Key learnings: applied the concepts of functions and control flow to execute a series of decisions and actions that determine an outcome for each round of the game.
++ Difficulties: applying the game logic that perform the taks of dealing cards, calculate the score in each round following the rules and keep track of the card count for the player and the computer using control flow to make it work.
++ Code: https://github.com/liannfinlayson26/Essential-Learning-Portfolio/blob/11_Blackjack/main.py
 ## <br>**10. Calculator:**
 <br> Description: a program that allows to do multiple mathematical operations (addition, subtraction, multiplication and division).
 + Key learnings: applied my knowledge in dictionaries and functions
