@@ -13,7 +13,7 @@ I develop multiple projects that helped me understand and master skills that are
 ## <br>**12. The Number Guessing Game:**
 <br> Description: a game that allows the user to guess a number between 1 and 100, using two level of difficulties: easy or hard. If the user chooses the easy level he/she have 10 opportunities to guess the number, but if he/she chooses hard only 5 opportunities to guess correctly!
 + Key learnings: applied the concept of global and local scopes to make the code work. Also reinforce concepts like functions and control flow.
-+ Difficulties: breaking the while loop to stop playing the game once the lives are at 0 or the person guesses the number correctly.
++ Difficulties: breaking the while loop to stop playing the game once the lives are at 0 or the person guesses the number correctly. Organize the code to make it work properly.
 + Code:
 ## <br>**11. Blackjack:**
 <br> Description: a game that allows to play blackjack 21 with a computer. 
