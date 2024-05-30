@@ -31,9 +31,10 @@ I develop multiple projects that helped me understand and master skills that are
 +  Difficulties: The use of a while loop to create a dictionary that iterate through a set of {keys: values}
 +  Code: https://github.com/liannfinlayson26/Essential-Learning-Portfolio/blob/9_Blind_Auction_Program_Solved/main.py 
 ## <br> **8. Caesar Cipher:**
-<br> Description: A program that allows you to encrypt and decrypt messages by shifting each letter in the plaintext by a fixed number of position down or up the alphabet. 
-+  Difficulties: 
-+  Code: 
+<br> Description: A program that allows you to encrypt and decrypt messages by shifting each letter in the plaintext by a fixed number of position down or up the alphabet.
++  Key Learnings: applied the index function to retrieve items from a list, simplify functions to used them again and again with an input and the ability to use control flow statements as if, elif and else to complete the logic.
++  Difficulties: the use of the modulo operator to do the cyclic operation inside the alphabet list and the use of a flag and while loop to continue or stop the encryption/decryption.
++  Code: https://github.com/liannfinlayson26/Essential-Learning-Portfolio/blob/8_Caesar_Cipher/main.py
 ## <br> **7. Hangman:**
 <br> Description: the program chooses a random word and we have to guessed which word it is. If we fail to guess the letters we lose!
 + Key learnings: lists, for and while loops
