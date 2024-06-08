@@ -1,20 +1,25 @@
 # Essential Learning Portfolio
 
-I develop multiple projects that helped me understand and master skills that are essential in Python. This projects involved concepts like:
-+ Flow control
-+ 
+I develop multiple projects in Python that helped me understand and master skills that are essential. This projects involved concepts like:
++ Variables
++ Lists
++ Flow Control
++ Dictionaries
++ Local and Global Scope
++ Functions
++ Debugging
 <br>This projects are:
 
 ## **13. The Higher Lower Game:** 
-<br> Description:
-+ Key learnings:
-+ Difficulties:
-+ Code:
+<br> Description: a game that allows you to guess if one celebrity or artist has more followers than another in Instagram.
++ Key learnings: Create functions that repeat certain code such as the selection of 2 artists. The use of control flow like if and else statement to compare the user choice with the computer's choice and also the use of a while flag to stop or continue the game if the user is correct
++ Difficulties: the logic of replacing artist B that was generated in artist A each time the game loops.
++ Code: https://github.com/liannfinlayson26/Essential-Learning-Portfolio-Python/blob/13_The_Higher_Lower_Game/main.py
 ## <br>**12. The Number Guessing Game:**
 <br> Description: a game that allows the user to guess a number between 1 and 100, using two level of difficulties: easy or hard. If the user chooses the easy level he/she have 10 opportunities to guess the number, but if he/she chooses hard only 5 opportunities to guess correctly!
 + Key learnings: applied the concept of global and local scopes to make the code work. Also reinforce concepts like functions and control flow.
 + Difficulties: breaking the while loop to stop playing the game once the lives are at 0 or the person guesses the number correctly. Organize the code to make it work properly.
-+ Code:
++ Code: https://github.com/liannfinlayson26/Essential-Learning-Portfolio-Python/blob/12_The_Number_Guessing_Game/main.py
 ## <br>**11. Blackjack:**
 <br> Description: a game that allows to play blackjack 21 with a computer. 
 + Key learnings: applied the concepts of functions and control flow to execute a series of decisions and actions that determine an outcome for each round of the game.
