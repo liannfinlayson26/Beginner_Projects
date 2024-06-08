@@ -1,4 +1,4 @@
-# Essential Learning Portfolio
+# Essential Learning Portfolio in Python
 
 I develop multiple projects in Python that helped me understand and master skills that are essential. This projects involved concepts like:
 + Variables
@@ -8,7 +8,8 @@ I develop multiple projects in Python that helped me understand and master skill
 + Local and Global Scope
 + Functions
 + Debugging
-<br>This projects are:
+
+<br>## **This projects are:**
 
 ## **13. The Higher Lower Game:** 
 <br> Description: a game that allows you to guess if one celebrity or artist has more followers than another in Instagram.
