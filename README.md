@@ -9,7 +9,7 @@ I develop multiple projects in Python that helped me understand and master skill
 + Functions
 + Debugging
 
-<br>## **This projects are:**
+<br>**This projects are:**
 
 ## **13. The Higher Lower Game:** 
 <br> Description: a game that allows you to guess if one celebrity or artist has more followers than another in Instagram.
